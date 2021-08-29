@@ -1,0 +1,25 @@
+{
+  "name": "uptask",
+  "version": "1.0.0",
+  "description": "Proyecto UpTask con Node y MVP",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelialuz/UpTask.git"
+  },
+  "author": "Noelia Luz Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelialuz/UpTask/issues"
+  },
+  "homepage": "https://github.com/noelialuz/UpTask#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
